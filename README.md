@@ -11,4 +11,5 @@ The dataframe df includes three columns to define the title, number of views and
 
 # Also referred:
 -> [Selenium Tutorial] : (https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
+
 -> [Infinite scrolling] : (https://www.youtube.com/watch?v=st_FvPrir9Q) 
